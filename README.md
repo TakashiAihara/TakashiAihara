@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TakashiAihara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TakashiAihara/TakashiAihara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m TakashiAihara
+- I live in Japan.
+- Fontend/Backend Engineer.
+- Onpremiss Infastructure Engineer.
+- Helpdesk.
+- Tech Lead.
+- I interested in Next.js + tRPC + Prisma + TypeScript + React
+- Also, I interested in Infrastructure as a Code.
