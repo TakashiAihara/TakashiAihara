@@ -4,18 +4,18 @@ Full-stack engineer in Japan, crossing on-premises infrastructure, backend, and 
 
 - 🧑‍💻 Backend 6 yrs · Tech Lead 4 yrs · On-prem infrastructure 4 yrs · Help desk 2 yrs · Frontend 1 yr · IT research 1 yr
 - ⚙️ I lead delivery platform design and AI tooling at work
-- 📝 I write niche tech notes (mostly pitfalls) on [Zenn](https://zenn.dev/takashiaihara) — 60+ posts
+- 📝 I write niche tech notes (mostly pitfalls) on [Zenn](https://zenn.dev/takashiaihara) — nearly 60 posts
 - 🌐 [profile.takashiaihara.site](https://profile.takashiaihara.site)
 
 ### What I'm building
 
-Tools for working with coding agents. Most are Bun + TypeScript CLIs shipped as single binaries.
+Tools for working with coding agents. Mostly Bun + TypeScript; several CLIs ship as single binaries.
 
 | Project | What it does |
 |---|---|
-| [ccx](https://github.com/TakashiAihara/ccx) | Management framework for parallel AI coding sessions: repodirs, sessions, and cross-machine visibility |
+| [ccx](https://github.com/TakashiAihara/ccx) | Management framework for parallel AI coding sessions: per-task repo clones, sessions, and cross-machine visibility |
 | [akapen](https://github.com/TakashiAihara/akapen) | Inline review for markdown — comments stay out of the file |
-| [fuda](https://github.com/TakashiAihara/fuda) | A shared task queue between you and your coding agent. Reports, decisions, questions and requests stay out of the terminal |
+| [fuda](https://github.com/TakashiAihara/fuda) | A shared task queue between you and your coding agent; reports, decisions, questions and requests stay out of the terminal |
 | [eda](https://github.com/TakashiAihara/eda) | A mind map you grow one node at a time with an AI that can only suggest |
 | [kaneo-cli](https://github.com/TakashiAihara/kaneo-cli) | CLI for [Kaneo](https://kaneo.app), the self-hostable project management tool. JSON/jq output; links agent sessions to tasks |
 | [cctr](https://github.com/TakashiAihara/cctr) | Claude Code transcripts as data: list, search and read session JSONL across machines, over SSH or HTTP |
@@ -25,10 +25,10 @@ Tools for working with coding agents. Most are Bun + TypeScript CLIs shipped as 
 
 ### Stack
 
-- Languages: TypeScript, Python, Ruby, Java
+- Languages: TypeScript, Python, Ruby
 - Web: Next.js, React, tRPC, Prisma, Nuxt, Vue, FastAPI, Ruby on Rails, Spring Boot
-- Data: PostgreSQL, MongoDB, Redis, DuckDB
-- Infra: AWS, GCP, Terraform, Docker, Proxmox
+- Data: PostgreSQL, MongoDB, Redis
+- Infra: AWS, GCP, Docker, IaC
 - Tooling: Bun, mise, uv, Claude Code, MCP
 
 ### Elsewhere
