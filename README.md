@@ -4,7 +4,7 @@ Full-stack engineer in Japan, crossing on-premises infrastructure, backend, and 
 
 - 🧑‍💻 Backend 6 yrs · Tech Lead 4 yrs · On-prem infrastructure 4 yrs · Help desk 2 yrs · Frontend 1 yr · IT research 1 yr
 - ⚙️ I lead delivery platform design and AI tooling at work
-- 📝 I write niche tech notes (mostly pitfalls) on [Zenn](https://zenn.dev/takashiaihara) — nearly 60 posts
+- 📝 I write niche tech notes (mostly pitfalls) on [Zenn](https://zenn.dev/takashiaihara) — 50+ posts
 - 🌐 [profile.takashiaihara.site](https://profile.takashiaihara.site)
 
 ### What I'm building
